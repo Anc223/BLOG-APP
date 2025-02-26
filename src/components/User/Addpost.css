@@ -1,0 +1,29 @@
+.crp-main{
+    margin-left: 280px;
+}
+.crp-len{
+    margin-left: 362px;
+}
+.crp-frm input{
+    border: none ;
+    border-bottom: 2px solid orangered;
+    width: 400px;
+}
+.crp-txt input{
+    padding: 100px 350px;
+}
+.crp-txt{
+    padding: 30px 0px;
+}
+.crp-btn1{
+    background-color: orangered;
+    color: white;
+    padding: 10px 20px;
+    margin-left: 640px;
+}
+.crp-btn2{
+    background-color: rgb(33, 127, 190);
+    color: white;
+    padding: 10px 20px;
+    margin-left: 30px;
+}

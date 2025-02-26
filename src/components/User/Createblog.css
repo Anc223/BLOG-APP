@@ -1,0 +1,28 @@
+.vert-nav{
+    position: fixed;
+    left: 0;
+    height: 100%;
+    width: 200px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+}
+.nav-link{
+    text-decoration: none;
+    color: white;
+    padding: 15px 20px;
+}
+.nav-link:hover{
+    background-color: blue;
+    color: white;
+}
+.nav-link:active{
+    background-color: #444;
+}
+.cb-container-fluid{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}

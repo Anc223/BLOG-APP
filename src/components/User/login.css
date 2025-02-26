@@ -1,0 +1,29 @@
+.lgn-bd{
+    background-color: white;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+.lgn-con{
+    height: 100vh;
+    width: 60vh;
+}
+.lgn-header{
+    margin-top: 0px;
+    font-size: xx-large;
+    padding: 40px 20px;
+}
+.lgn-bt{
+    background-color: black;
+    color: white;
+    border-radius: 12px;
+    width: 100px;
+    height: 30px;
+}
+.sgnup-lnk{
+    font-size: small;
+    text-decoration: none;
+    padding: 8px 8px;
+}

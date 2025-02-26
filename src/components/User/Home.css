@@ -1,0 +1,26 @@
+.hm-bd{
+    display: flex;
+    background-image: url(home.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    height: 100vh;
+}
+.hm-hed{
+    margin-top: 50px;
+    font-style: italic;
+}
+.hm-para{
+    font-size: larger;
+}
+.hm-btn{
+    font-size: larger;
+    padding: 10px 10px;
+    border-radius: 12px;
+    background-color: black;
+    color: white;
+}
+.hm-text{
+    margin-left: 30px;
+    padding-right: 40%;
+}
